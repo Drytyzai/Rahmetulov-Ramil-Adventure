@@ -1,0 +1,3 @@
+У меня Git не хочет добовлять проект в Pull request, поэтому оставлю сылку на него здесь
+
+https://github.com/Drytyzai/Rahmetulov-Ramil-Adventure
